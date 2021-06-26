@@ -1,0 +1,27 @@
+#marqueeStyle{
+    font-size: 75px;
+    background-color: black;
+    color: white
+}
+#dpsl{
+    height:500px;
+    width:1000px;
+    text-align:center;
+}
+#dpsi{
+    text-align:center
+}
+h1{
+    font-size:50px;
+}
+#pic{
+    height: 400px;
+    width: 850px;
+}
+h4{
+    font-size: 75px;
+}
+p{
+    font-size: 60px;
+    font-family: monospace;
+}
